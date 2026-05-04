@@ -42,5 +42,10 @@ luac.out
 #
 *.cache
 *.pdb
+*.txt
+
+# .NET build output
+bin/
+obj/
 
 
