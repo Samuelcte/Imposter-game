@@ -49,3 +49,5 @@ bin/
 obj/
 
 
+/Server/bin
+/Server/obj
