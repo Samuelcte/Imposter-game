@@ -45,7 +45,7 @@ luac.out
 *.txt
 
 # .NET build output
-bin/
-obj/
+**bin/
+**obj/
 
 
