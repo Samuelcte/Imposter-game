@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C# Projekte\\Wer-ist-der-Verraeter-\\Server\\Server.csproj",
+      "projectUniqueName": "C:\\C# Projekte\\Imposter-game\\Server\\Server.csproj",
       "projectName": "Server",
-      "projectPath": "C:\\C# Projekte\\Wer-ist-der-Verraeter-\\Server\\Server.csproj",
+      "projectPath": "C:\\C# Projekte\\Imposter-game\\Server\\Server.csproj",
       "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-      "outputPath": "C:\\C# Projekte\\Wer-ist-der-Verraeter-\\Server\\obj\\",
+      "outputPath": "C:\\C# Projekte\\Imposter-game\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config"
