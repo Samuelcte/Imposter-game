@@ -47,7 +47,3 @@ luac.out
 # .NET build output
 bin/
 obj/
-
-
-/Server/bin
-/Server/obj
